@@ -3,7 +3,7 @@
     "short_name": "PORTFOLIO",
     "description": "Prathuuu cha portfolio",
     "orientation": "portrait",
-    "start_url": "https://prathuu.github.io/PrathuuPortfolio/",
+    "start_url": "/PrathuuPortfolio",
     "background_color": "#f00",
     "theme_color": "#FF0",
     "display": "standalone",
