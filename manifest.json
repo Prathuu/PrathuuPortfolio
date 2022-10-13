@@ -7,6 +7,21 @@
     "background_color": "#f00",
     "theme_color": "#FF0",
     "display": "standalone",
+    "shortcuts":[
+        {
+            "name":"Learn About Us",
+            "short_name":"about",
+            "description":"About Cha Page",
+            "url":"./About.html",
+            "icons":[
+                {
+                    "src": "./assets/images/SKILLHUB-192-192.png",
+                    "type": "image/png",
+                    "sizes": "192x192"
+                }
+            ]
+        }
+    ],
     "icons": [
         {
             "src": "./assets/images/SKILLHUB-48-48.png",
